@@ -22,7 +22,7 @@ I'm a **Web Developer** passionate about crafting clean, interactive, and user-f
 ## 🚀 Favorite Projects
 
 - **[Oyo Booking.com](https://oyo-booking.vercel.app/)** – A fully responsive web app simulating hotel booking features.  
-- **[Fresh Tech](https://new-fresh-gadgets.vercel.app/products)** – A tech product showcase site built with modern frontend tools and smooth UI animations.  
+- **[Fresh Tech](https://new-fresh-gadgets.vercel.app/)** – A tech product showcase site built with modern frontend tools and smooth UI animations.  
 
 ---
 
@@ -35,8 +35,10 @@ I'm a **Web Developer** passionate about crafting clean, interactive, and user-f
 ---
 
 ## 📫 Connect with Me 
-[![LinkedIn](https://www.linkedin.com/in/toluwalope-ajibade-948861268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Portfolio](https://portfolio-nj5r.vercel.app/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/toluwalope-ajibade-948861268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nj5r.vercel.app/ ) 
+
+
 
 ---
 
