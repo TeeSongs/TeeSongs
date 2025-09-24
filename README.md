@@ -34,17 +34,16 @@ I'm a **Web Developer** passionate about crafting clean, interactive, and user-f
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toluwalope-ajibade-948861268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nj5r.vercel.app/#contact)  
+## 📫 Connect with Me 
+[![LinkedIn](https://www.linkedin.com/in/toluwalope-ajibade-948861268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Portfolio](https://portfolio-nj5r.vercel.app/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Tolu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Tolu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Tolu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeeSongs&show_icons=true&theme=radical)  
+![Tolu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeSongs&layout=compact&theme=radical)  
 
 ---
 
